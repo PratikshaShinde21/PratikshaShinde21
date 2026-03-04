@@ -79,7 +79,7 @@ Currently focusing on Full-Stack Development and building real-world academic pr
 
 ![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=PratikshaShinde21)](https://git.io/streak-stats))
 
-![Anjali's GitHub stats](./github-user-contribution.svg)
+![Pratiksha's GitHub stats](./github-user-contribution.svg)
 
 ---
 
