@@ -77,7 +77,7 @@ Currently focusing on Full-Stack Development and building real-world academic pr
 
 ## 📈 GitHub Stats  
 
-![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com?user=PratikshaShinde21)](https://git.io/streak-stats))
+([![GitHub Streak](https://streak-stats.demolab.com?user=PratikshaShinde21)](https://git.io/streak-stats))
 
 ![Pratiksha's GitHub stats](./github-user-contribution.svg)
 
