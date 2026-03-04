@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+# 🌸 Hi, I'm Pratiksha Shinde🙋🏻‍♀️
+
+>>>>>>> 4ece3627632b4ed76779b0a06db0c8831603cb90
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋🏻&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
@@ -5,18 +10,23 @@
 <h1 align="center">🌸 Hi, I'm Pratiksha Shinde 🙋🏻‍♀️</h1>
 
 <p align="center">
+<<<<<<< HEAD
   <b>Aspiring Full-Stack Developer 💻 &nbsp;|&nbsp; B.Sc. Computer Science Student 🎓 &nbsp;|&nbsp; Future Developer & Data Scientist 🚀</b>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PratikshaShinde21&label=Profile%20Views&color=ff69b4&style=flat-square" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/PratikshaShinde21?label=Followers&style=flat-square&color=blueviolet" alt="followers"/>
+=======
+  <b>Aspiring Full-Stack Developer 💻 | B.Sc. Computer Science Student 🚀 | Future Developer & Data Scientist </b>
+>>>>>>> 4ece3627632b4ed76779b0a06db0c8831603cb90
 </p>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
+<<<<<<< HEAD
 ```yaml
 Name        : Pratiksha Shinde
 Location    : Maharashtra, India 🇮🇳
@@ -35,6 +45,24 @@ Strengths:
   ✅ Fast Learner
   ✅ Consistent Practice
   ✅ Project-Based Learning
+=======
+```
+name: Pratiksha Shinde
+location: Maharashtra, India 🇮🇳
+education: B.Sc. Computer Science
+goal: Become a Professional Full-Stack Developer
+currently_learning:
+  - HTML, CSS 
+  -  MySQL
+  -  Python
+  -  C / C++
+  - Data Communication & Networking
+strengths:
+  - Fast Learner
+  - Consistent Practice
+  - Project-Based Learning
+
+>>>>>>> 4ece3627632b4ed76779b0a06db0c8831603cb90
 ```
 
 > I'm a passionate Computer Science student who loves building websites and learning new technologies.  
@@ -44,15 +72,23 @@ Strengths:
 
 ## 🚀 What I Do
 
+<<<<<<< HEAD
 - 🌐 Build **responsive web pages** using HTML & CSS
 - 🛠️ Develop **academic & mini projects** end-to-end
 - 🗃️ Practice **database connectivity & form validation**
 - 📖 Learn **consistently** and apply skills through real builds
+=======
+### 💻 Web Development  
+- Build responsive web pages using HTML, CSS  
+- Work on academic and mini projects  
+- Practice database connectivity & form validation  
+>>>>>>> 4ece3627632b4ed76779b0a06db0c8831603cb90
 
 ---
 
 ## 📂 Featured Projects
 
+<<<<<<< HEAD
 <table>
   <tr>
     <td width="50%">
@@ -85,12 +121,28 @@ Strengths:
 </table>
 
 > 💡 *Learning by building practical, real-world projects*
+=======
+### 🎓 Steno AI 
+- 🎙️ Real-time transcription  
+- 🔒 Fully private 
+- 🌐 13 Indian languages  
+- 💾 Easy export   
+
+### 🌐 Online Examination system
+- 🎓 Student Portal   
+- 👨‍💼 Admin Dashboard  
+- 💾 No Backend Needed  
+- 📱 Clean & Responsive UI   
+
+> Learning by building practical projects 💡  
+>>>>>>> 4ece3627632b4ed76779b0a06db0c8831603cb90
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
+<<<<<<< HEAD
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
@@ -100,12 +152,18 @@ Strengths:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+=======
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+>>>>>>> 4ece3627632b4ed76779b0a06db0c8831603cb90
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 
+<<<<<<< HEAD
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PratikshaShinde21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   &nbsp;
@@ -115,6 +173,11 @@ Strengths:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=PratikshaShinde21&theme=tokyonight&hide_border=true" width="55%"/>
 </p>
+=======
+[![GitHub Streak](https://streak-stats.demolab.com?user=PratikshaShinde21)](https://git.io/streak-stats)
+
+![Pratiksha's GitHub stats](./github-user-contribution.svg)
+>>>>>>> 4ece3627632b4ed76779b0a06db0c8831603cb90
 
 ---
 
@@ -141,13 +204,21 @@ Strengths:
 ## 🌐 Let's Connect
 
 <p align="left">
+<<<<<<< HEAD
   <a href="https://github.com/PratikshaShinde21" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-PratikshaShinde21-181717?style=for-the-badge&logo=github"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/pratuu-shinde-550ab1340" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pratiksha%20Shinde-0077B5?style=for-the-badge&logo=linkedin"/>
+=======
+  <a href="[https://github.com/PratikshaShinde21](https://github.com/PratikshaShinde21)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+>>>>>>> 4ece3627632b4ed76779b0a06db0c8831603cb90
   </a>
+  <a href="https://www.linkedin.com/in/pratuu-shinde-550ab1340"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  
 </p>
 
 ---
@@ -159,8 +230,12 @@ Strengths:
   ⭐ <b>Consistency + Practice = Success</b>
 </p>
 
+<<<<<<< HEAD
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </p>
+=======
+⭐ Consistency + Practice = Success
+>>>>>>> 4ece3627632b4ed76779b0a06db0c8831603cb90
