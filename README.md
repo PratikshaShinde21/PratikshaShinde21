@@ -1,31 +1,33 @@
-# 🌸 Hi, I'm Pratiksha Shinde 
+# 🌸 Hi, I'm Pratiksha Shinde🙋🏻‍♀️
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋🏻&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
 <p align="center">
-  <b>Aspiring Full-Stack Developer 💻 | B.Sc. Computer Science Student 🚀 | Passionate Learner</b>
+  <b>Aspiring Full-Stack Developer 💻 | B.Sc. Computer Science Student 🚀 | Future Developer & Data Scientist </b>
 </p>
 
 ---
 
 ## 👩🏻‍💻 About Me  
 
-```yaml
+```
 name: Pratiksha Shinde
 location: Maharashtra, India 🇮🇳
 education: B.Sc. Computer Science
 goal: Become a Professional Full-Stack Developer
 currently_learning:
-  - HTML, CSS, JavaScript
-  - Python & MySQL
-  - React (Basics)
+  - HTML, CSS 
+  -  MySQL
+  -  Python
+  -  C / C++
   - Data Communication & Networking
 strengths:
   - Fast Learner
   - Consistent Practice
   - Project-Based Learning
+
 ```
 
 I am a passionate Computer Science student who loves building websites and learning new technologies.  
@@ -36,8 +38,7 @@ Currently focusing on Full-Stack Development and building real-world academic pr
 ## 🚀 What I Do  
 
 ### 💻 Web Development  
-- Build responsive web pages using HTML, CSS & JavaScript  
-- Create Login & Registration systems using PHP & MySQL  
+- Build responsive web pages using HTML, CSS  
 - Work on academic and mini projects  
 - Practice database connectivity & form validation  
 
@@ -45,17 +46,17 @@ Currently focusing on Full-Stack Development and building real-world academic pr
 
 ## 📚 Current Projects  
 
-### 🎓 Student Scholarship Website  
-- Secure Login & Register System  
-- Database Integration using MySQL  
-- Session & Cookie Implementation  
-- User-Friendly Interface  
+### 🎓 Steno AI 
+- 🎙️ Real-time transcription  
+- 🔒 Fully private 
+- 🌐 13 Indian languages  
+- 💾 Easy export   
 
-### 🌐 Basic Web Development Projects  
-- Sticky Forms  
-- Display Properties Demo  
-- Buttons using Margin & Padding  
-- PHP Programs with Database  
+### 🌐 Online Examination system
+- 🎓 Student Portal   
+- 👨‍💼 Admin Dashboard  
+- 💾 No Backend Needed  
+- 📱 Clean & Responsive UI   
 
 > Learning by building practical projects 💡  
 
@@ -66,10 +67,6 @@ Currently focusing on Full-Stack Development and building real-world academic pr
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </p>
 
@@ -92,9 +89,12 @@ Currently focusing on Full-Stack Development and building real-world academic pr
 ## 🌐 Let's Connect  
 
 <p align="left">
-  <a href="https://github.com/PratikshaShinde21">
+  <a href="[https://github.com/PratikshaShinde21](https://github.com/PratikshaShinde21)">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
+  <a href="https://www.linkedin.com/in/pratuu-shinde-550ab1340"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  
 </p>
 
 ---
