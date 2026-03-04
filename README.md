@@ -1,8 +1,8 @@
+<h1 align="center">🌸 Hi, I'm Pratiksha Shinde </h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋🏻&animation=fadeIn&type=waving&color=gradient&height=120"/>
 </p>
 
-<h1 align="center">🌸 Hi, I'm Pratiksha Shinde 🙋🏻‍♀️</h1>
 
 <p align="center">
   <b>Aspiring Full-Stack Developer 💻 &nbsp;|&nbsp; B.Sc. Computer Science Student 🎓 &nbsp;|&nbsp; Future Developer & Data Scientist 🚀</b>
